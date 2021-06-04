@@ -1,3 +1,9 @@
+/*
+ * Ler 10 números e imprimir quantos são pares e quantos são ímpares. (FOR)
+3- Solicitar a idade de várias pessoas e imprimir: Total de pessoas com menos de
+21 anos. Total de pessoas com mais de 50 anos. O programa termina quando
+idade for =-99. (WHILE)
+ */
 import java.util.Scanner;
 
 public class ExIdadeRepeticao {
